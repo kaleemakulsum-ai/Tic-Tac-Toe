@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-this is my first project
+Simple Tic Tac Toe game using HTML CSS and JavaScript
